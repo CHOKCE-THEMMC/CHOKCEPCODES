@@ -20,8 +20,7 @@ The code has been refactored to follow SOLID principles, eliminate redundancy (D
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CHOKCE-THEMMC/student-management-system.git
-   cd student-management-system
+   git clone https://github.com/CHOKCE-THEMMC/CHOKCEPCODES.git
 2.Run the system:
 python student_management_system.py
 
